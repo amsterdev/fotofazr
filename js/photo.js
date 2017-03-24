@@ -10,10 +10,12 @@
 	var ticking = false;
 
 	var photoMaskUpdate = function(){
-		var rawNumber = last_known_scroll_position * .1;
+		var rawNumber = last_known_scroll_position * .2;
 		rawNumber = Math.round(rawNumber);
 		photoWrap.style.opacity =  (rawNumber * .01);
 	}
+
+
 
 	w.addEventListener('scroll', function(e) {
 	  last_known_scroll_position = window.scrollY;
