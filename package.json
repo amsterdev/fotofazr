@@ -1,0 +1,22 @@
+{
+  "name": "fotofazr",
+  "version": "1.0.0",
+  "description": "this is it",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amsterdev/fotofazr.git"
+  },
+  "keywords": [
+    "parralax"
+  ],
+  "author": "amsterdev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amsterdev/fotofazr/issues"
+  },
+  "homepage": "https://github.com/amsterdev/fotofazr#readme"
+}
